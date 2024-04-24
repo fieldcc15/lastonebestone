@@ -1,0 +1,82 @@
+.Header{
+    background-color: black;
+    color:white;
+    height: 100px;
+    line-height: 100px;
+    margin-top: -22px;
+    
+}
+
+.Mainbody{
+    background-color: lightblue;
+    left:5px;
+    right:5px;
+    padding-top:20px;
+}
+
+.Footer{
+    background-color: grey;
+    height: 25px;
+    bottom: 0px;
+    position: fixed;
+    left: 5px;
+    right: 5px;
+    padding-top:15px;
+    font-size:10px;
+
+}
+
+img{
+    display:inline;
+    justify-content: space-around;
+    margin-left: auto;
+    margin-right: auto;
+    width: 35%;
+}
+
+.common{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+nav{
+    background-color:grey;
+    padding:10px;
+    overflow:hidden;
+}
+
+nav a{
+    float:left;
+    padding:10px 13px;
+    text-decoration: underline;
+    color:#333;
+    font-size:16px;
+    font-weight: bold;
+}
+
+nav a:hover{
+    background-color:#ccc;
+}
+
+ol{
+    list-style-position: inside;
+}
+
+ul{
+    list-style-position: inside;
+}
+
+iframe{
+    display:inline;
+    justify-content: space-around;
+    margin-left: auto;
+    margin-right: auto;
+    width: 35%;
+}
+
+.tableau{
+    display:inline;
+    margin-left: auto;
+    margin-right: auto;
+    width: 35%;
+}
